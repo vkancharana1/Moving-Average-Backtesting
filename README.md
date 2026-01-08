@@ -172,7 +172,7 @@ python backtester/backtester.py
 ### 4️⃣ Run Standalone Interactive Backtest
 
 ```bash
-python simple backtestfile.py
+python simple_backtest.py
 ```
 
 You’ll be prompted to enter a stock ticker (e.g., `AAPL`, `MSFT`, `GOOGL`).
